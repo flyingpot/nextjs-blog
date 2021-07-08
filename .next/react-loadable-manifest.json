@@ -1,0 +1,38 @@
+{
+  "../components/Comments.js -> @/components/Utterances": {
+    "id": "./components/Utterances.js",
+    "files": [
+      "static/chunks/components_Utterances_js.js"
+    ]
+  },
+  "../components/Comments.js -> gitalk/dist/gitalk-component": {
+    "id": "./node_modules/gitalk/dist/gitalk-component.js",
+    "files": [
+      "static/chunks/node_modules_gitalk_dist_gitalk-component_js.js"
+    ]
+  },
+  "../components/Comments.js -> react-cusdis": {
+    "id": "./node_modules/react-cusdis/dist/ReactCusdis.js",
+    "files": [
+      "static/chunks/node_modules_react-cusdis_dist_ReactCusdis_js.js"
+    ]
+  },
+  "../node_modules/next/dist/client/next-dev.js -> ./dev/noop": {
+    "id": "./node_modules/next/dist/client/dev/noop.js",
+    "files": [
+      "static/chunks/node_modules_next_dist_client_dev_noop_js.js"
+    ]
+  },
+  "_app.js -> @/components/Ackee": {
+    "id": "./components/Ackee.js",
+    "files": [
+      "static/chunks/components_Ackee_js.js"
+    ]
+  },
+  "_app.js -> @/components/Gtag": {
+    "id": "./components/Gtag.js",
+    "files": [
+      "static/chunks/components_Gtag_js.js"
+    ]
+  }
+}
